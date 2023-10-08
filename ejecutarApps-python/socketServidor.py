@@ -9,7 +9,7 @@ import socket
 import subprocess
 
 # Configuración del servidor
-HOST = '192.168.100.10'  # Dirección IP del servidor
+HOST = '0.0.0.0'  # Dirección IP del servidor
 PORT = 8000  # Puerto del servidor
 
 # Crear un socket del servidor
