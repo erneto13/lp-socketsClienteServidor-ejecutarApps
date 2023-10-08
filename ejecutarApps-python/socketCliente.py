@@ -7,7 +7,7 @@ Created on Sun Oct  8 01:43:29 2023
 
 import socket
 
-HOST = '192.168.100.10'  # Dirección IP del servidor
+HOST = '0.0.0.0'  # Dirección IP del servidor
 PORT = 8000  # Puerto del servidor
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
