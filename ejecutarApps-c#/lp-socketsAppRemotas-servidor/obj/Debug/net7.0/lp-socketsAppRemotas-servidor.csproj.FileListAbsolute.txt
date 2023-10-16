@@ -1,0 +1,15 @@
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\bin\Debug\net7.0\lp-socketsAppRemotas-servidor.exe
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\bin\Debug\net7.0\lp-socketsAppRemotas-servidor.deps.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\bin\Debug\net7.0\lp-socketsAppRemotas-servidor.runtimeconfig.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\bin\Debug\net7.0\lp-socketsAppRemotas-servidor.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\bin\Debug\net7.0\lp-socketsAppRemotas-servidor.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.csproj.AssemblyReference.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.AssemblyInfoInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.AssemblyInfo.cs
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\refint\lp-socketsAppRemotas-servidor.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\lp-socketsAppRemotas-servidor.genruntimeconfig.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-socketsAppRemotas-servidor\obj\Debug\net7.0\ref\lp-socketsAppRemotas-servidor.dll

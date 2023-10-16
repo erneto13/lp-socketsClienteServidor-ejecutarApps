@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lp-socketsAppRemotas-servidor", "lp-socketsAppRemotas-servidor.csproj", "{CE1A9D3C-54A8-43F1-B710-2DE1B106C456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1A9D3C-54A8-43F1-B710-2DE1B106C456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A9D3C-54A8-43F1-B710-2DE1B106C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A9D3C-54A8-43F1-B710-2DE1B106C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A9D3C-54A8-43F1-B710-2DE1B106C456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810127BD-8DFA-402A-942E-C0731350DDBE}
+	EndGlobalSection
+EndGlobal
